@@ -1,0 +1,5 @@
+Look at last scrape file from Day 3 of activites as example on how to build out.
+
+
+app.py
+index.html
